@@ -1,8 +1,8 @@
 # Introduction
 
-​		本模型基于SAMURAI开源项目进行复现和优化，SAMURAI是华盛顿大学团队提出的基于Segment  Anything Model 2 的视觉目标跟踪增强框架。我们在原工作基础上进行了进一步的算法调优和工程实现， 显著提升了在复杂场景下的跟踪性能。 
+本模型基于SAMURAI开源项目进行复现和优化，SAMURAI是华盛顿大学团队提出的基于Segment  Anything Model 2 的视觉目标跟踪增强框架。我们在原工作基础上进行了进一步的算法调优和工程实现， 显著提升了在复杂场景下的跟踪性能。 
 
-​		主要用于参加2025年全国校园人工智能算法精英大赛  赛道：算法挑战赛  赛题：视觉+几何+语义：多源异构数据协同的视频目标跟踪，如想获取模型权重，链接: https://pan.baidu.com/s/1NfRKSIOFhhD6sMqGCNuByw?pwd=amnw 提取码: amnw。
+主要用于参加2025年全国校园人工智能算法精英大赛  赛道：算法挑战赛  赛题：视觉+几何+语义：多源异构数据协同的视频目标跟踪，如想获取模型权重，链接: https://pan.baidu.com/s/1NfRKSIOFhhD6sMqGCNuByw?pwd=amnw 提取码: amnw。
 
 
 
